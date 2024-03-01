@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "bdf479fbc7a3dbe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c34c0ac8f5e2c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2954a1c1684b2d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Time Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "087bd2460c8f9709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Web Development/CSS/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0310bf8d4d200dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0d69d20ee637966",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "179af56711eab582",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c4b73b41fa57185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "c",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27a1743607165b73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "f7bf5d74385806d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "40854a7e9d63e9f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59971e6515216f38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Development/Web Development/CSS/Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ec446c824b4d179",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Development/Web Development/CSS/Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b68d071f36e23a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13f05c92d8be4dc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Development/Web Development/CSS/Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "087bd2460c8f9709",
+  "lastOpenFiles": [
+    "Development/Web Development/CSS/Layout Technique.md",
+    "Development/Web Development/CSS/Index.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Time Complexity.md",
+    "Computer Science/Topics To Learn And Project.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Space Complexity.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Big O Notation.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Best, worst, and average case analysis.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Asymptotic notation (Θ, O, Ω).md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Amortized analysis.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Backtracking.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Brute force.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Divide and conquer.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Dynamic Programming.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Sliding window technique.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Two-pointer technique.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Branch and Bound.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Approximation Algorithm.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Iteration.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Memoization.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Pruning.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Randomized Algorithms.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Recursion.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Tabulation.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Sorting/Bubble Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Sorting/Insertion Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Sorting/Merge Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Searching/Untitled",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Numerical",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Back-Tracking",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Divide and Conquer",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Greedy",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Dynamic Programming",
+    "Computer Science/Low-Level Notes",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis",
+    "Other/Images/Pasted image 20240106154459.png",
+    "Other/Images/Pasted image 20240106154510.png",
+    "Pasted image 20240106154507.png",
+    "Other/Personal/Atomic Habits.canvas",
+    "[Test.canvas",
+    "Programming Fundamentals/Test.canvas"
+  ]
+}
