@@ -6,7 +6,7 @@
 | [[Elements and Tags]]                    | Various HTML tags and their usage                   |
 | [[Text Formatting]]                      | Formatting text using HTML tags                     |
 | [[Links and Anchor Tags]]                 | Creating hyperlinks within HTML documents            |
-| [[Images and Image Tags]]                 | Inserting images using the `<img>` tag              |
+| [[Images]]                 | Inserting images using the `<img>` tag              |
 | [[Lists]]                                | Ordered and unordered lists in HTML                 |
 | [[Tables]]                               | Structuring data with HTML tables                  |
 | [[Forms and Input Tags]]                  | Creating forms for user input                       |

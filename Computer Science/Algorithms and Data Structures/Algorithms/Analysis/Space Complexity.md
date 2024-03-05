@@ -1,4 +1,4 @@
-## Space Complexity: Understanding the Memory Footprint of Your Algorithms
+## Space Complexity: Understanding the Memory Footprint of  Your Algorithms
 
 While the time it takes an algorithm to run is crucial, the amount of memory it consumes plays an equally important role. Space complexity refers to the memory resources an algorithm requires to execute. Understanding this concept is essential for designing efficient and scalable software.
 

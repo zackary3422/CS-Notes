@@ -82,6 +82,13 @@ if (number1 > number2) {
 string numberAsString = number.ToString();
 ```
 
+**Disadvantages of Wrapper Classes**
+- Wrapper classes can lead to code bloat and increased verbosity.
+- They may introduce unnecessary complexity and overhead to the codebase.
+- Wrapper classes can obscure the original intent of the code and make it harder to understand.
+- They may hinder performance, especially in resource-constrained environments.
+- Dependency on wrapper classes can make the codebase less flexible and harder to maintain.
+
 **Conclusion**
 
 Wrapper classes are valuable tools for programmers seeking to manipulate and manage primitive data types more efficiently and effectively. By understanding their benefits and applications, computer science students can write cleaner, more maintainable, and object-oriented code.

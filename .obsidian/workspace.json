@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "13c34c0ac8f5e2c9",
+        "id": "f6fe0a1215ef6b25",
         "type": "tabs",
         "children": [
           {
-            "id": "2954a1c1684b2d88",
+            "id": "6695d048830d0fb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Time Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "087bd2460c8f9709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development/Web Development/CSS/Index.md",
+                "file": "Development/Web Development/CSS/Shadows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "c",
+                "query": "doubl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Web Development/CSS/Index.md",
+                "file": "Development/Web Development/CSS/Shadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Web Development/CSS/Index.md",
+                "file": "Development/Web Development/CSS/Shadows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Web Development/CSS/Index.md"
+                "file": "Development/Web Development/CSS/Shadows.md"
               }
             }
           }
@@ -159,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "087bd2460c8f9709",
+  "active": "179af56711eab582",
   "lastOpenFiles": [
+    "README.md",
+    "Development/Web Development/CSS/Psuedo-Classes and Pseudo-Elements.md",
+    "Development/Web Development/CSS/Positioning.md",
+    "Development/Web Development/CSS/Media Queries.md",
+    "Development/Web Development/CSS/Test.md",
+    "Development/Web Development/CSS/Styling Properties.md",
+    "Development/Web Development/CSS/Transitions.md",
+    "Development/Web Development/CSS/Shadows.md",
     "Development/Web Development/CSS/Layout Technique.md",
+    "Development/Web Development/HTML/Images.md",
+    "Development/Web Development/HTML/Index.md",
     "Development/Web Development/CSS/Index.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Time Complexity.md",
     "Computer Science/Topics To Learn And Project.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Space Complexity.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Big O Notation.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Best, worst, and average case analysis.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Asymptotic notation (Θ, O, Ω).md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Analysis/Amortized analysis.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Backtracking.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Brute force.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Divide and conquer.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Dynamic Programming.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Sliding window technique.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Problem Solving Strategies/Two-pointer technique.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Branch and Bound.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Approximation Algorithm.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Iteration.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Memoization.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Pruning.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Randomized Algorithms.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Recursion.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Techniques/Tabulation.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Sorting/Bubble Sort.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Sorting/Insertion Sort.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Sorting/Merge Sort.md",
+    "Computer Science/Algorithms and Data Structures/Data Structures/Stacks.md",
+    "Computer Science/Algorithms and Data Structures/Data Structures/Tri Tree.md",
+    "Computer Science/Algorithms and Data Structures/Data Structures/Trees and Graphs.md",
+    "Computer Science/Programming Fundamentals/OOP/Encapsulation.md",
+    "Computer Science/Programming Fundamentals/OOP/Classes.md",
+    "Computer Science/Programming Fundamentals/OOP/Abstraction.md",
+    "Computer Science/Programming Fundamentals/OOP/Abstract Classes.md",
+    "Computer Science/Programming Fundamentals/Memory/Pointers.md",
+    "Computer Science/Programming Fundamentals/Memory/Octal.md",
+    "Computer Science/Programming Fundamentals/Memory/Memory.md",
+    "Computer Science/Programming Fundamentals/Memory/Hexadecimal.md",
+    "Computer Science/Programming Fundamentals/Memory/Heaps.md",
+    "Computer Science/Programming Fundamentals/Memory/Garbage Collection.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Searching/Untitled",
     "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Numerical",
     "Computer Science/Algorithms and Data Structures/Algorithms/Algorithm Types/Back-Tracking",

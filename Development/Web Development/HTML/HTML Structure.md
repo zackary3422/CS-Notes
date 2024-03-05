@@ -1,7 +1,6 @@
 
-
-
 ## Basics of HTML
+
 
 ### Elements and Tags
 - **Elements:** Fundamental building blocks of HTML.
